@@ -94,10 +94,10 @@ text-shadow: 2px 1px 4px rgba(0, 0, 0, 0.8);
 -----------------------------------------------*/
 @keyframes race {
     0%, 100% {
-        transform: translate(0px);
+        transform: translateY(0px);
         background-image: url("./images/Icons/2.png");
     }
     50% {
-        transform: translate(330px);
+        transform: translateY(330px);
     }
 }
