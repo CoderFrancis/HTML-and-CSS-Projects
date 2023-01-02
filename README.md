@@ -1,3 +1,10 @@
 # Tech-Academy-Projects
-This repository is for my Tech Academy projects.
-change
+This is a display of sample that I made using HTML and CSS.
+
+Projects 
+ (Space Station)
+ (Movie Theater Site)
+ 
+(Space Station Site)
+
+(Movie Theather S
