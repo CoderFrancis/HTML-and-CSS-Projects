@@ -10,7 +10,7 @@ h1 {
     font-family: "Trebuchet MS", Optima; /* Sets the font family of all h1 headings */
     text-align: center; /* Centering all h1 elements */
     margin-top: 3%; /* Adds a small margin above h1 elements */
-    color: #1a1a1a; 
+    color: #0AA53F; 
 }
 
 /* Heading 1 element hover effect */
@@ -92,14 +92,14 @@ img:hover {
 /* Styling for footer element */
 footer {
     padding: 2%; /* This gives the footer padding that is equal to 2% of the width of the element's area */
-    background-color: white;
+    background-color: #0AA53F;
 }
 /***** END OF GENERAL STYLING *****/
 
 /***** NAVBAR STYLING *****/
 .Navbar {
     overflow: hidden; /* This ensures that any content that overflows beyond the boundary of our nav bar is not displayed */
-    background-color: black; /* This colors the navbar black */
+    background-color: #0AA53F; /* This colors the navbar black */
     position: fixed; /* This keeps the navbar at the top of the screen as we scroll */
     top: 0; /* This ensures no space is displayed above the navbar */
     width: 100%; /* This makes the navbar span the entire width of the page */
@@ -118,7 +118,7 @@ footer {
 .Navbar a {
     float: left; /* This specifies that the text floats on the left on the navbar */
     display: block; /* This ensures that other text will be displayed on the same line or row, instead of a new line */
-    color: white; /* This is the font color for text on our navbar */
+    color: rgb(0, 0, 0); /* This is the font color for text on our navbar */
     padding: 14px 16px; /* This adds padding around our text */
     text-decoration: none; /* This gets rid of the underlines under the text on our navbar */
     font-family: Avant Garde, Helvetica; /* This specifies the font family for text on our navbar */
@@ -145,8 +145,8 @@ footer {
 
 /* Navbar hover effects */
 .Navbar a:hover {
-    background-color: #f4f4f4; /* Defines the background color that will display when you hover over the link */
-    color: black; /* This defines the font color that will display when navbar a elements are hovered over */
+    background-color: #000000; /* Defines the background color that will display when you hover over the link */
+    color: rgb(255, 255, 255); /* This defines the font color that will display when navbar a elements are hovered over */
     font-weight: bold; /* This makes the text on the navbar bold when hovered over */
 }
 
