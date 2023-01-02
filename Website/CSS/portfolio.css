@@ -285,3 +285,8 @@ form {
     font-family: "Trebuchet MS", Optima;
 }
 /***** END OF CONTACT FORM STYLING *****/
+
+ video {
+    width: 800px;
+    height: 600px;
+  }
