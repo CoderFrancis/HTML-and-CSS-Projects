@@ -5,7 +5,7 @@ Projects
  (Crypto Consultant)
  (Movie Theater Site)
  
-(Crypto Consultant)
+[Crypto Consultant](https://github.com/CoderFrancis/HTML-and-CSS-Projects/tree/main/Crypto%20Consultant )(Crypto Consultant)
 Crypto Consultant is a webpage where I provide basic cryptocurrency information. There is a section where you can input your 
 contact information to request a consultation. 
 
